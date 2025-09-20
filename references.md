@@ -1,3 +1,2 @@
-<<<<<<< my-resume
-=======
->>>>>>>main
+# References
+
